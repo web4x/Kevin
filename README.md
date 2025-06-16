@@ -1,19 +1,30 @@
-# My HTML Project
+# Kevins developer Blog
 
-This project is a simple web application that demonstrates the basic structure of an HTML webpage along with associated CSS and JavaScript files.
+In this project I will learn how to code. In the following my whole way from zero to web 4.0 hero will be documented. Based on this document the reader should be able to follow these steps and make the journey himself. 
 
 ## Project Structure
 
-```
-my-html-project
-├── src
-│   └── index.html       # Main HTML document
-├── styles
-│   └── style.css        # Styles for the webpage
-├── scripts
-│   └── main.js          # JavaScript functionality
-└── README.md            # Project documentation
-```
+1. **Basic Setup**
+Docker
+Visual Studios
+GitHub
+Deploy your own webpage
+
+
+
+
+
+
+
+## Basic Setup
+
+### Docker
+
+
+
+
+
+
 
 ## Getting Started
 
