@@ -19,7 +19,7 @@ Deploy your own webpage
 ## Basic Setup
 
 ### Docker
-If you use a Microwoft based software you have to use the WSL (= Windows Subsystem for Linus)
+If you use a Microwoft based software you have to use the WSL (= Windows Subsystem for Linus). Therefore you should install Docker (https://docs.docker.com/desktop/setup/install/windows-install/). Trough that
 
 
 
