@@ -1,0 +1,1 @@
+console.log('Willkommen bei My Web Project!');
