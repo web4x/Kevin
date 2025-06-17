@@ -3,9 +3,9 @@ document.addEventListener('DOMContentLoaded', () => {
   if (navbar) {
     navbar.innerHTML = `
       <a href="../index.html">Home</a>
-      <a href="../pages/about.html">Über uns</a>
-      <a href="../pages/services.html">Leistungen</a>
-      <a href="../pages/contact.html">Kontakt</a>
+      <a href="../Kevin/pages/about.html">Über uns</a>
+      <a href="../Kevin/pages/services.html">Leistungen</a>
+      <a href="../Kevin/pages/contact.html">Kontakt</a>
     `;
   }
 });
