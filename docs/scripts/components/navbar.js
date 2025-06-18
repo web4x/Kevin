@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   navbar.innerHTML = `
     <a href="https://web4x.github.io/Kevin/">Home</a>
-    <a href="https://web4x.github.io/Kevin/about.html">Über uns</a>
-    <a href="https://web4x.github.io/Kevin/services.html">Leistungen</a>
-    <a href="https://web4x.github.io/Kevin//contact.html">Kontakt</a>
+    <a href="https://web4x.github.io/Kevin/pages/about.html">Über uns</a>
+    <a href="https://web4x.github.io/Kevin/pages/services.html">Leistungen</a>
+    <a href="https://web4x.github.io/Kevin/pages/contact.html">Kontakt</a>
  
 });
