@@ -14,8 +14,7 @@ My workflow was coding in VSC trough the Remote exporer extension on Ubuntu and 
 ### Docker
 
 Linux is the recommended software for coding, if your device uses something else you should use Docker. You will find countless tutorials and can ask specific questions to your AI Assistent.  
-<leer>
-<leer>
+
 If you use a Microwoft based software you have to use the WSL (= Windows Subsystem for Linus). Therefore you should install Docker (https://docs.docker.com/desktop/setup/install/windows-install/). Trough that you will also install WSL and Ubuntu.  
 
 ## Visual Studio Code
